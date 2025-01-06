@@ -1,3 +1,13 @@
+# *******************************************************************************************************
+#            UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE                                                  
+# Proposito:                      Menu                                                               
+# Autor:                          Marcelo Acuña                  
+# Fecha de creacion:              17/12/2024                                                          
+# Fecha de modificacion:          30/12/2024                                                          
+# Materia:                        Estructura de datos                                                  
+# NRC :                           1992                                                                
+# *******************************************************************************************************
+
 import os
 import time
 import msvcrt  # Para capturar teclas en Windows
